@@ -38,4 +38,4 @@ reverse = (number) =>{
         console.log("Quantidade de números reversíveis de 1 a ",max,": ",set.size);
       }
       
-      numerosReversiveis(1000000,false)
+      numerosReversiveis(1000000,true)
